@@ -1,0 +1,9 @@
+git init - initializ
+git remote add origin URL
+
+
+PUSH
+1. git add . / file name
+2. git commit -m " "
+3. git push origin main
+   (check branch - git branch)
